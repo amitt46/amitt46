@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amit! <br/><a href="https://github.com/amitt46">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional | Enthusaist</a> </h1>
+<h1>Hi, I'm Amit! <br/><a href="https://github.com/amitt46">Programmer</a>, <a href="https://www.linkedin.com/in/amitt46/">Cybersecurity Professional | Enthusaist</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
