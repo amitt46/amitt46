@@ -1,33 +1,39 @@
-<h1>Hi, I'm Amit! <br/><a href="https://github.com/amitt46">Programmer</a>, <a href="https://www.linkedin.com/in/amitt46/">Cybersecurity Professional | Enthusaist</a> </h1>
+# 👋 Amit Thakuri
 
-<h2>👨‍💻 Software Development Projects:</h2>
+**Cybersecurity Enthusiast | Business IT Graduate | Network and System Administration Aficionado**
 
+## 👨‍💻 About Me
+I am a motivated Business IT graduate from Seneca Polytechnic College with a strong foundation in cybersecurity, network, and system administration. I recently earned the **Google Cybersecurity Certificate** and am currently pursuing the **(ISC)² Certified in Cybersecurity (CC)** certification to deepen my technical expertise.
 
+## 🛠 Technical Skills
+- **Programming**: Python, JavaScript, XML, HTML, CSS
+- **Frameworks**: NodeJS, PHP
+- **Databases**: MySQL, MongoDB
+- **Operating Systems**: Windows, Linux/Unix
+- **Tools & Services**: Git, PowerShell, Microsoft 365, Active Directory, SEIM (Exposure), Peppermint Ticket Management
 
+## 📚 Education
+- **Business Information Technology** (Jan 2023 – Aug 2024)  
+  *Seneca Polytechnic College, Toronto, ON, Canada*  
+  Relevant Coursework: Advanced Database Design, Networking, System Administration, Project Management
 
+- **B.Sc. in Computer Science and Information Technology** (2016 – 2020)  
+  *Orchid International College, Kathmandu, Nepal*  
+  Key Subjects: Data Structures, Java Programming, Computer Networks, Web Technologies
 
+## 💡 Certifications & Training
+- **Google Cybersecurity Certificate**
+- **(ISC)² Certified in Cybersecurity (CC)** (In Progress)
+- **Server Administration Essential Training** (LinkedIn)
+- **Cisco Network Foundation** (LinkedIn)
 
-<h2> 🤳 Connect with me:</h2>
+## 🛡 Interests
+I am deeply passionate about defensive cybersecurity, threat prevention, and efficient network/system administration. I love collaborating on innovative projects that push the boundaries of technology and security.
 
-[<img align="left" alt="AmitThakuri | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="AmitThakuri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AmitThakuri | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 🌱 Let's Connect
+- **LinkedIn**: [linkedin.com/in/amitt46](https://www.linkedin.com/in/amitt46/)
+- **Email**: amitsinghthakuri80@gmail.com
+- **Location**: Toronto, ON, Canada
 
-[twitter]: https://twitter.com/amitt46
-[instagram]: https://www.instagram.com/amitt46/
-[linkedin]: https://linkedin.com/in/amitt46
-
-<!--
-**amitt46/amitt46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+Feel free to reach out for collaboration or discussion about cybersecurity, IT solutions, and more!
