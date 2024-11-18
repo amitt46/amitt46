@@ -7,8 +7,10 @@ I am a Business IT graduate with a robust background in cybersecurity and networ
 
 ## 🛡 Cybersecurity Projects
 - **Home Lab**: A personal cybersecurity project focused on securing home network environments. The project emphasizes network defense, vulnerability management, and implementing best practices to safeguard home systems and IoT devices.
-- 
-
+ 
+## Other Projects
+- **College Management Web Application**
+  
 ## 💡 Certifications & Training
 - **Google Cybersecurity Certificate**
 - **(ISC)² Certified in Cybersecurity (CC)** (In Progress)
