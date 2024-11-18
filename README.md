@@ -1,9 +1,10 @@
 # 👋 Amit Thakuri
 
-**Cybersecurity Enthusiast | Business IT Graduate | Network and System Administration Aficionado**
+Cybersecurity Enthusiast | Business IT Graduate | Network and System Administration
 
 ## 👨‍💻 About Me
-I am a motivated Business IT graduate from Seneca Polytechnic College with a strong foundation in cybersecurity, network, and system administration. I recently earned the **Google Cybersecurity Certificate** and am currently pursuing the **(ISC)² Certified in Cybersecurity (CC)** certification to deepen my technical expertise.
+
+I am a Business IT graduate with a robust background in cybersecurity and network/system administration. My key strengths include problem-solving, data analysis, and system optimization, with a dedication to enhancing defensive security expertise. I value protecting organizations and maintaining secure digital environments, driven by the challenge of foreseeing and mitigating cyber threats. My aim is to apply my technical capabilities and proactive mindset to help organizations achieve their security goals and safeguard their critical digital assets.
 
 ## 🛠 Technical Skills
 - **Programming**: Python, JavaScript, XML, HTML, CSS
