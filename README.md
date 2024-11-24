@@ -18,12 +18,16 @@ I am a Business IT graduate with a robust background in cybersecurity and networ
 - [Career Essentials in Cybersecurity by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/a4f846ed9cff0975b4a097c22167e428955cca4d8c36173bccec8ec396cb9885?u=2169170)
 
 ## 🛡 Experience
-**Mastercard Cybersecurity virtual experience program on Forage**   
-• Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team
+## Mastercard Cybersecurity Virtual Experience Program (Forage) – November 2024
 
-• Helped identify and report security threats such as phishing
+As part of this virtual experience program, I worked as an **analyst on Mastercard’s Security Awareness Team**, completing the following key tasks:
 
-• Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams
+- **Threat Detection & Reporting**: Identified and reported potential security threats, including phishing attempts.  
+- **Business Security Analysis**: Assessed various areas of the business to pinpoint vulnerabilities requiring enhanced security measures.  
+- **Training Implementation**: Developed and implemented targeted security training courses and procedures to address identified gaps, ensuring a more robust security posture across teams.  
+
+This hands-on simulation provided practical insights into cybersecurity workflows and reinforced my expertise in security awareness and threat mitigation.
+
 
 ## 🌱 Let's Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/amitt46/)
